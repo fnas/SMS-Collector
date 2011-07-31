@@ -8,10 +8,11 @@
     <property name="modal">True</property>
     <property name="type_hint">dialog</property>
     <property name="program_name">SMS Collector</property>
-    <property name="version">r1</property>
+    <property name="version">1.0</property>
     <property name="comments" translatable="yes">A Sega Master System collection tool</property>
+    <property name="website">https://github.com/frekir/SMS-Collector</property>
     <property name="authors">Martin Törnblad
-Robert L. Bryant (original windows version)</property>
+Robert L. Bryant (original Windows-version)</property>
     <property name="logo_icon_name">system-file-manager</property>
     <child internal-child="vbox">
       <object class="GtkBox" id="aboutdialog-vbox1">
